@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hello 👋, I'm Anish </h2>
+    <h2> Hello 👋, I'm Dhruvin</h2>
     <a href="https://www.instagram.com/fan_of_benedict_cumberbatch/">
     <img alt="My Instagram" width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/instagram.svg">
     </a>
