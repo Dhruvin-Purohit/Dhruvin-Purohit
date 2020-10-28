@@ -18,8 +18,8 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg">
     </code>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=Real-Master-of-Chaos&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhruvin-Purohit&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Master-of-Chaos&layout=compact&langs_count=8&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvin-Purohit&layout=compact&langs_count=8&theme=dark">
     
 </div>
