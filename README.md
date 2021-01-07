@@ -1,3 +1,6 @@
+# Inactive Warning
+Due to having schools, I am a bit inacitve.
+
 <div align="center">
     <h1>Hi, I'm Dhruvin Purohit</h1>
     <br>
