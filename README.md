@@ -1,10 +1,7 @@
-# Inactive Warning
-Due to having schools, I am a bit inacitve.
-
 <div align="center">
     <h1>Hi, I'm Dhruvin Purohit</h1>
     <br>
-    A Proficient Developer from <a href="https://www.google.com/maps/search/?api=1&query=Vadodara,Gujurat,India">Vadodara, Gujurat, India</a>
+    A Self Taugh Aspiring Developer from <a href="https://www.google.com/maps/search/?api=1&query=Vadodara,Gujurat,India">Vadodara, Gujurat, India</a>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Dhruvin-Purohit&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
