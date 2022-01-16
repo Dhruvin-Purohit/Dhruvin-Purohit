@@ -38,3 +38,6 @@ yarn-error.log*
 
 # VSC
 .vscode
+
+# My own files i want to git to ignore such as notes on what i want to add to website
+/ignore

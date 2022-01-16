@@ -2,10 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+/* @TODO: ADD this font to Preload */
+@font-face {
+  font-family: "Poppins";
+  src: url("/fonts/Poppins/Poppins-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+
 @layer base {
-  // Globals like p.text-white.text-sm
+  /* Globals like p.text-white.text-sm */
 }
 
 @layer components {
-  // Custom Components like btn
+  /* Custom Components like btn */
 }
