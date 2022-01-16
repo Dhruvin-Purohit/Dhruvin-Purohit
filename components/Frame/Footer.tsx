@@ -1,3 +1,3 @@
 export default function Footer() {
-  return <></>;
+  return <footer>&copy; 2021 - {new Date()} Dhruvin Purohit</footer>;
 }

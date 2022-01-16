@@ -1,3 +1,9 @@
 export default function NavBar() {
-  return <></>;
+  return (
+    <nav>
+      <ul>
+        <li>{/* Links here */}</li>
+      </ul>
+    </nav>
+  );
 }
