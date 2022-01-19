@@ -1,12 +1,17 @@
 import NavBar from "./NavBar";
 import Footer from "./Footer";
+import { ReactElement } from "react";
 
-export default function Frame({ children }: { children: unknown }) {
+export default function Frame({ children }: { children: ReactElement }) {
   return (
     <>
-      <NavBar />
-      {children}
-      <Footer />
+      <header>
+        <NavBar />
+      </header>
+      <main>{children}</main>
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 }
