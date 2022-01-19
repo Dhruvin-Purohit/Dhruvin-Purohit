@@ -8,8 +8,8 @@ export default function Frame({ children }: { children: ReactElement }) {
       <header>
         <NavBar />
       </header>
-      <main>{children}</main>
-      <footer>
+      <main className="text-blue-300 bg-gray-900">{children}</main>
+      <footer className="text-center text-blue-300 bg-gray-900">
         <Footer />
       </footer>
     </>
