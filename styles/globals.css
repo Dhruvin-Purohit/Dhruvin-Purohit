@@ -10,10 +10,10 @@
   font-weight: 400;
 }
 
-@layer base {
-  /* Globals like p.text-white.text-sm */
+body {
+  cursor: none;
 }
 
-@layer components {
-  /* Custom Components like btn */
+a {
+  cursor: none;
 }
