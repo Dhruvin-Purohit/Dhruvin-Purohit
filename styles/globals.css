@@ -17,3 +17,9 @@ body {
 a {
   cursor: none;
 }
+
+/*
+TO BE ADDED WHEN THEY WILL BE USED.
+button {
+  @apply bg-blue-300 text-gray-900 rounded-lg px-4 py-2;
+} */
