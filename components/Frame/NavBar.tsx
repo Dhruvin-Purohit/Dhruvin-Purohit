@@ -6,7 +6,7 @@ export default function NavBar() {
   return (
     <>
       <nav className="fixed w-screen bg-gray-900">
-        <ul className="flex text-xl text-center text-blue-300 justify-evenly">
+        <ul className="flex text-xl font-medium text-center text-blue-300 justify-evenly">
           <li
             className={`rounded-md flex-grow${
               router.asPath === "/#home" ? " bg-blue-300 text-gray-900" : ""
