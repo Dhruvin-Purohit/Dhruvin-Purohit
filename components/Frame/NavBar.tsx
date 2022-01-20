@@ -5,7 +5,7 @@ export default function NavBar() {
   const router = useRouter();
   return (
     <>
-      <nav className="fixed w-screen bg-gray-900">
+      <nav className="fixed w-screen max-w-full bg-gray-900">
         <ul className="flex text-xl font-medium text-center text-blue-300 justify-evenly">
           <li
             className={`rounded-md flex-grow${
