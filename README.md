@@ -5,7 +5,7 @@
     <hr>
     I like JavaScript, TypeScript, NodeJS, React (Next.JS ❤️), Tailwind, Dart and Flutter.
     <br>
-    You can get in touch with me in my [discord](https://dsc.gg/dhruvin)
+    You can get in touch with me in my <a href="https://dsc.gg/dhruvin">discord</a>
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Dhruvin-Purohit&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
