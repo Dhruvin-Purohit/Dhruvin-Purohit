@@ -2,25 +2,32 @@ import { useEffect } from "react";
 
 export default function Cursor() {
   useEffect(() => {
+
     const cursor = document.querySelector<HTMLElement>("#cursor")!;
     const trail = document.querySelector<HTMLElement>("#cursor-trail")!;
+    
     document.addEventListener("mousemove", (e) => {
+      
       cursor.style.left = e.clientX + "px";
       cursor.style.top = e.clientY + "px";
+      
       setTimeout(() => {
         trail.style.left = e.clientX + "px";
         trail.style.top = e.clientY + "px";
       }, 200);
 
-      document.addEventListener("click", (e) => {
+      document.addEventListener("click", () => {
+        
         cursor.classList.add("scale-[2]");
         trail.classList.add("scale-[2]");
+        
         setTimeout(() => {
           cursor.classList.remove("scale-[2]");
           trail.classList.remove("scale-[2]");
         }, 750);
       });
     });
+
   }, []);
 
   return (
