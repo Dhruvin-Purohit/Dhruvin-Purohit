@@ -15,17 +15,17 @@ export default function Cursor() {
         trail.style.left = e.clientX + "px";
         trail.style.top = e.clientY + "px";
       }, 200);
+    });
 
-      document.addEventListener("click", () => {
+    document.addEventListener("click", () => {
         
-        cursor.classList.add("scale-[2]");
-        trail.classList.add("scale-[2]");
-        
-        setTimeout(() => {
-          cursor.classList.remove("scale-[2]");
-          trail.classList.remove("scale-[2]");
-        }, 750);
-      });
+      cursor.classList.add("scale-[2]");
+      trail.classList.add("scale-[2]");
+      
+      setTimeout(() => {
+        cursor.classList.remove("scale-[2]");
+        trail.classList.remove("scale-[2]");
+      }, 750);
     });
 
   }, []);
