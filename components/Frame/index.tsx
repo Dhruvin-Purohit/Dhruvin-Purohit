@@ -11,8 +11,8 @@ export default function Frame({ children }: { children: ReactElement }) {
       <header>
         <NavBar />
       </header>
-      <main className="text-blue-300 bg-gray-900">{children}</main>
-      <footer className="text-center text-blue-300 bg-gray-900">
+      <main className="text-black dark:text-white dark:bg-material-dark-main">{children}</main>
+      <footer className="text-center text-black dark:text-white dark:bg-material-dark-main">
         <Footer />
       </footer>
     </>
